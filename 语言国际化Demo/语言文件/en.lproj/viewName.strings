@@ -1,0 +1,15 @@
+/* 
+  viewName.strings
+  语言国际化Demo
+
+  Created by mo on 2018/1/2.
+  Copyright © 2018年 momo. All rights reserved.
+*/
+"home" = "HomePage";
+"base" = "base";
+"mo" = "mo";
+"English" = "ChangeEnglish";
+"Chinese" = "ChangeChinese";
+"Japanese" = "ChangeJapanese";
+"Button" = "Button";
+"ceshi" = "TheTestData";
